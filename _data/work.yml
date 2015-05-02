@@ -1,18 +1,24 @@
 - name: UIUC
   image: uiuc.svg
   time: 2009-present
+  url: http://illinois.edu/
 - name: BNI
   image: barrow.png
   time: 2008-2009
+  url: http://www.thebarrow.org/
 - name: Adobe
   image: adobe.png
   time: Summer 2013
+  url: http://www.adobe.com/
 - name: MILA
   image: mila.png
   time: Spring 2014
+  url: http://lisa.iro.umontreal.ca/mila/
 - name: Google
   image: google.svg
   time: Summer 2014
+  url: http://www.google.com
 - name: Google
   image: google.svg
   time: Summer 2015
+  url: http://www.google.com

@@ -5,7 +5,7 @@
         {% for work in site.data.work %}
             <div class="two columns">
               <img class="img-responsive" src="{{ "/assets/img/work/" | prepend: site.baseurl }}{{ work.image }}" height=50 alt="">
-              <div>{{ work.name }}</div>
+              <div><a href="{{ work.url }}">{{ work.name }}</a></div>
               <div>{{ work.time }}</div>
             </div>
         {% endfor %}
