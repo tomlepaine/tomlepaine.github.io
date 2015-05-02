@@ -1,0 +1,106 @@
+- title: "An Analysis of Unsupervised Pre-training in light of recent advances"
+  time: 1412
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Pooya Khorrami
+    - name: Wei Han
+    - name: Thomas S. Huang
+  venue: ICLR 2015 (Workshop)
+  links: 
+    - name: arXiv
+      url: http://arxiv.org/abs/1412.6597
+    - name: Code (Github)
+      url: https://github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015
+
+- title: "Visual Media: History and Perspectives"
+  time: 1403
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: Thomas S. Huang
+    - name: Vuong Le
+    - name: "**Tom Le Paine**"
+    - name: Pooya Khorrami
+    - name: Usman Tariq
+  venue: IEEE Multimedia 2014
+  links: 
+    - name: PDF
+      url: http://ieeexplore.ieee.org/iel7/93/6818897/06818960.pdf?arnumber=6818960
+
+- title: "GPU asynchronous stochastic gradient descent to speed up neural network training"
+  time: 1312
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Hailin Jin
+    - name: Jianchao Yang
+    - name: Zhe Lin
+    - name: Thomas S. Huang
+  venue: ICLR 2014 (Workshop)
+  links: 
+    - name: PDF
+      url: http://arxiv.org/abs/1312.6186
+
+- title: "Unsupervised learning for face recognition"
+  time: 1212
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: ???
+  venue: Technical report
+  links: 
+    - name: PDF
+      url: http://www.google.com
+
+- title: "Simultaneous dynamic and functional MRI scanning (SimulScan) of natural swallows"
+  time: 1105
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Charles Conway
+    - name: Georgia Malandraki
+    - name: Bradley Sutton
+  venue: Magnetic Resonance in Medicine
+  links: 
+    - name: PDF
+      url: http://www.google.com
+
+- title: "Examination of susceptibility effects on functional and dynamic magnetic resonance imaging"
+  time: 1108
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+  venue: "UIUC Master's thesis"
+  links: 
+    - name: PDF
+      url: http://www.google.com
+
+- title: "Optimized preload leakage-correction methods to improve the diagnostic accuracy of dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in posttreatment gliomas"
+  time: 1001
+  image: publication-01.png
+  description: Why?
+  authors: 
+    - name: LS Hu
+    - name: LC Baxter
+    - name: DSPinnaduwage
+    - name: "**TL Paine**"
+    - name: JP Karis
+    - name: BG Feuerstein
+    - name: KM Schmainda
+    - name: AC Dueck
+    - name: J Debbins
+    - name: KA Smith
+    - name: P Nakaji
+    - name: JM Eschbacher
+    - name: SW Coons
+    - name: JE Heiserman
+  venue: American Journal of Neuroradiology
+  links: 
+    - name: PDF
+      url: http://www.google.com
