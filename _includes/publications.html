@@ -8,7 +8,6 @@
         </div>
         <div class="one-half column abstract">
             <div class="orange">{{ publication.title }}</div>
-            {{ publication.description | markdownify }}
             <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
             <div class="blue">{{ publication.venue }}</div>
             {% for link in publication.links %}

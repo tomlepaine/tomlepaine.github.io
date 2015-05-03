@@ -1,6 +1,6 @@
 - title: "An Analysis of Unsupervised Pre-training in light of recent advances"
   time: 1412
-  image: publication-01.png
+  image: iclr-2015.png
   description: Why?
   authors: 
     - name: "**Tom Le Paine**"
@@ -16,7 +16,7 @@
 
 - title: "Visual Media: History and Perspectives"
   time: 1403
-  image: publication-01.png
+  image: ieee-multimedia-2014.png
   description: Why?
   authors: 
     - name: Thomas S. Huang
@@ -27,11 +27,11 @@
   venue: IEEE Multimedia 2014
   links: 
     - name: PDF
-      url: http://ieeexplore.ieee.org/iel7/93/6818897/06818960.pdf?arnumber=6818960
+      url: assets/pdf/ieee-multimedia-2014.pdf
 
 - title: "GPU asynchronous stochastic gradient descent to speed up neural network training"
   time: 1312
-  image: publication-01.png
+  image: iclr-2014.png
   description: Why?
   authors: 
     - name: "**Tom Le Paine**"
@@ -41,12 +41,12 @@
     - name: Thomas S. Huang
   venue: ICLR 2014 (Workshop)
   links: 
-    - name: PDF
+    - name: arXiv
       url: http://arxiv.org/abs/1312.6186
 
 - title: "Unsupervised learning for face recognition"
   time: 1212
-  image: publication-01.png
+  image: unsupervised-face.png
   description: Why?
   authors: 
     - name: "**Tom Le Paine**"
@@ -58,7 +58,7 @@
 
 - title: "Simultaneous dynamic and functional MRI scanning (SimulScan) of natural swallows"
   time: 1105
-  image: publication-01.png
+  image: simulscan.png
   description: Why?
   authors: 
     - name: "**Tom Le Paine**"
@@ -72,18 +72,18 @@
 
 - title: "Examination of susceptibility effects on functional and dynamic magnetic resonance imaging"
   time: 1108
-  image: publication-01.png
+  image: susceptibility.png
   description: Why?
   authors: 
     - name: "**Tom Le Paine**"
   venue: "UIUC Master's thesis"
   links: 
     - name: PDF
-      url: http://www.google.com
+      url: assets/pdf/masters-thesis-2011.pdf
 
 - title: "Optimized preload leakage-correction methods to improve the diagnostic accuracy of dynamic susceptibility-weighted contrast-enhanced perfusion MR imaging in posttreatment gliomas"
   time: 1001
-  image: publication-01.png
+  image: ajnr.jpg
   description: Why?
   authors: 
     - name: LS Hu

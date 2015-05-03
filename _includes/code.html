@@ -2,22 +2,20 @@
   <div class="container">
     <h2 class="orange">Code</h2>
     <div class="row">
-
+      {% for code in site.data.code %}
       <div class="three columns">
-        <img class="u-max-full-width" src="{{ "/assets/img/code/" | prepend: site.baseurl }}anna.png" alt="">
+        <img class="u-max-full-width" src="{{ "/assets/img/code/" | prepend: site.baseurl }}{{ code.image }}" alt="">
       </div>
 
       <div class="nine columns abstract">
-        <div class="orange">Anna</div>
-        <div>A python micro-framework for training neural networks. Built on top of Theano.</div>
-        <pre><code>
-          from anna import layers
-          input = layers.Input()
-          conv1 = layers.conv1(input=input)
-        </code></pre>
+        <div class="orange">{{ code.name }}</div>
+        {{ code.description}}
+{% highlight python %}
+{{ code.code }}
+{% endhighlight %}
         <a class="button" href="https://github.com/ifp-uiuc/anna">Github</a>
       </div>
-
+      {% endfor %}
     </div>
     <hr>
   </div>

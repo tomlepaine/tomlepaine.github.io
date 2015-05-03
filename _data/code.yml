@@ -1,0 +1,4 @@
+- name: Anna
+  image: anna.png
+  description: A python micro-framework for training neural networks. Built on top of Theano
+  code: "from anna import layers\ninput = layers.Input()\nconv1 = layers.Conv2DLayer(\n\tinput=input,\n\tn_features=200)"
