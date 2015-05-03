@@ -1,10 +1,10 @@
 - name: UIUC
   image: uiuc.svg
-  time: 2009-present
+  time: 2009 - present
   url: http://illinois.edu/
 - name: BNI
   image: barrow.png
-  time: 2008-2009
+  time: 2008 - 2009
   url: http://www.thebarrow.org/
 - name: Adobe
   image: adobe.png

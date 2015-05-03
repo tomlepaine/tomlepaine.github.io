@@ -3,10 +3,10 @@
     <h2 class="orange">Publications</h2>
     {% for publication in site.data.publications %}
       <div class="row">
-        <div class="one-half column">
+        <div class="four columns">
           <img class="u-max-full-width" src="{{ "assets/img/publications/" | prepend: site.baseurl }}{{ publication.image }}">
         </div>
-        <div class="one-half column abstract">
+        <div class="eight columns abstract">
             <div class="orange">{{ publication.title }}</div>
             <div>{{ publication.authors | map: 'name' | join: ',  ' | markdownify }}</div>
             <div class="blue">{{ publication.venue }}</div>
