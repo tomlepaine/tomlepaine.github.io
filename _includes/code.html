@@ -10,7 +10,7 @@
 
       <div class="nine columns abstract">
         <div class="orange">{{ code.name }}</div>
-        {{ code.description}}
+        {{ code.description | markdownify }}
 {% highlight python %}
 {{ code.code }}
 {% endhighlight %}
