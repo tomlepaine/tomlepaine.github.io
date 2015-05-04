@@ -44,17 +44,17 @@
     - name: arXiv
       url: http://arxiv.org/abs/1312.6186
 
-- title: "Unsupervised learning for face recognition"
+- title: "Deep learning for face recognition"
   time: 1212
   image: unsupervised-face.png
   description: Why?
   authors: 
     - name: "**Tom Le Paine**"
-    - name: ???
+    - name: Thapanapong Rukkanchanunt
   venue: Technical report
   links: 
     - name: PDF
-      url: http://www.google.com
+      url: assets/pdf/technical-report-2012.pdf
 
 - title: "Simultaneous dynamic and functional MRI scanning (SimulScan) of natural swallows"
   time: 1105
