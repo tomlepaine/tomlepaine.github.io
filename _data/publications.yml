@@ -1,3 +1,15 @@
+- title: "Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?"
+  time: 1510
+  image: 
+  description: Why?
+  authors: 
+    - name: Pooya Khorrami
+    - name: "**Tom Le Paine**"
+    - name: Thomas S. Huang
+  venue: ICCV Workshop 2015
+  links:
+    - name: Coming
+      url: 
 - title: "An Analysis of Unsupervised Pre-training in light of recent advances"
   time: 1412
   image: iclr-2015.png
@@ -7,7 +19,7 @@
     - name: Pooya Khorrami
     - name: Wei Han
     - name: Thomas S. Huang
-  venue: ICLR 2015 (Workshop)
+  venue: ICLR Workshop 2015
   links: 
     - name: arXiv
       url: http://arxiv.org/abs/1412.6597
@@ -39,7 +51,7 @@
     - name: Jianchao Yang
     - name: Zhe Lin
     - name: Thomas S. Huang
-  venue: ICLR 2014 (Workshop)
+  venue: ICLR Workshop 2014
   links: 
     - name: arXiv
       url: http://arxiv.org/abs/1312.6186
