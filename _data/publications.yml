@@ -8,7 +8,7 @@
     - name: Thomas S. Huang
   venue: ICCV 2015 (Workshop)
   links: 
-    - name: arXiv
+    - name: PDF
       url: http://arxiv.org/abs/1510.02969
 - title: "An Analysis of Unsupervised Pre-training in light of recent advances"
   time: 1412
@@ -21,7 +21,7 @@
     - name: Thomas S. Huang
   venue: ICLR 2015 (Workshop)
   links: 
-    - name: arXiv
+    - name: PDF
       url: http://arxiv.org/abs/1412.6597
     - name: Code (Github)
       url: https://github.com/ifp-uiuc/an-analysis-of-unsupervised-pre-training-iclr-2015
@@ -53,7 +53,7 @@
     - name: Thomas S. Huang
   venue: ICLR 2014 (Workshop)
   links: 
-    - name: arXiv
+    - name: PDF
       url: http://arxiv.org/abs/1312.6186
 
 - title: "Deep learning for face recognition"
