@@ -2,7 +2,7 @@
 title: Tom Le Paine
 email: tom.le.paine@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Applying deep learning to computer vision: speeding it up, and making it work with less labeled data.
+  Research Scientist at DeepMind. Previously: Applying deep learning to computer vision -- speeding it up, and making it work with less labeled data.
   PhD student in the [Image Formation and Processing](http://ifp-uiuc.github.io/) group at UIUC, advised by Professor Thomas Huang.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tomlepaine.github.io" # the base hostname & protocol for your site
