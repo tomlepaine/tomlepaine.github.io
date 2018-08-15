@@ -5,15 +5,15 @@
 - name: Google AI
   image: google.svg
   time: Summer 2015
-  url: http://www.google.com
+  url: https://ai.google/
 - name: Google Brain
   image: google.svg
   time: Summer 2014
-  url: http://www.google.com
+  url: https://ai.google/research/teams/brain
 - name: MILA
   image: mila.png
   time: Spring 2014
-  url: http://lisa.iro.umontreal.ca/mila/
+  url: https://mila.quebec/
 - name: Adobe
   image: adobe.png
   time: Summer 2013
