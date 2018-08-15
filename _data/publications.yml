@@ -1,3 +1,21 @@
+- title: "Seq-nms for video object detection"
+  time: 1602
+  image: seq-nms-2016.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Wei Han
+    - name: Pooya Khorrami
+    - name: Prajit Ramachandran
+    - name: Mohammad Babaeizadeh
+    - name: Honghui Shi
+    - name: Jianan Li
+    - name: Shuicheng Yan
+    - name: Thomas S. Huang
+  venue: CVPR 2015 (Workshop)
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1602.08465
 - title: "Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?"
   time: 1510
   image: iccv-2015.png
