@@ -12,7 +12,7 @@
   links: 
     - name: PDF
       url: https://arxiv.org/abs/1602.07377
-- title: "Seq-nms for video object detection"
+- title: "Seq-NMS for Video Object Detection"
   time: 1602
   image: seq-nms-2016.png
   description: Why?
