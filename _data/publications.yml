@@ -1,3 +1,21 @@
+- title: "Fast Generation for Convolutional Autoregressive Models"
+  time: 1704
+  image: fast-generation-2017.png
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Prajit Ramachandran
+    - name: Pooya Khorrami
+    - name: Mohammad Babaeizadeh
+    - name: Shiyu Chang
+    - name: Yang Zhang
+    - name: Mark A. Hasegawa-Johnson
+    - name: Roy H. Campbell
+    - name: Thomas S. Huang
+  venue: ICLR 2017
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1704.06001
 - title: "How Deep Neural Networks Can Improve Emotion Recognition on Video Data"
   time: 1607
   image: how-deep-2016.png
