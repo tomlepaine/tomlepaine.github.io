@@ -2,10 +2,6 @@
   image: deepmind.png
   time: Current
   url: https://deepmind.com/
-- name: UIUC
-  image: uiuc.svg
-  time: 2011-2017
-  url: http://illinois.edu/
 - name: Google
   image: google.svg
   time: Summer 2015
