@@ -1,6 +1,10 @@
+- name: DeepMind
+  image: deepmind.png
+  time: Current
+  url: https://deepmind.com/
 - name: UIUC
   image: uiuc.svg
-  time: Current
+  time: 2011-2017
   url: http://illinois.edu/
 - name: Google
   image: google.svg
