@@ -1,3 +1,18 @@
+- title: "Playing Hard Exploration Games by Watching YouTube"
+  time: 1805
+  image: playing-hard-2018.png
+  description: Why?
+  authors: 
+    - name: Yusuf Aytar
+    - name: Tobias Pfaff
+    - name: David Budden
+    - name: "**Tom Le Paine**"
+    - name: Ziyu Wang
+    - name: Nando de Freitas
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1805.11592
 - title: "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions"
   time: 1710
   image: few-shot-2018.png
