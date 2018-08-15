@@ -1,3 +1,27 @@
+- title: "Large-Scale Visual Speech Recognition"
+  time: 1807
+  image: large-scale-visual-speech-2018.png
+  description: Why?
+  authors: 
+    - name: Brendan Shillingford
+    - name: Yannis Assael
+    - name: Matthew W. Hoffman
+    - name: "**Tom Le Paine**"
+    - name: Cían Hughes
+    - name: Utsav Prabhu
+    - name: Hank Liao
+    - name: Hasim Sak
+    - name: Kanishka Rao
+    - name: Lorrayne Bennett
+    - name: Marie Mulville
+    - name: Ben Coppin
+    - name: Ben Laurie
+    - name: Andrew Senior
+    - name: Nando de Freitas
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1807.05162
 - title: "Playing Hard Exploration Games by Watching YouTube"
   time: 1805
   image: playing-hard-2018.png
