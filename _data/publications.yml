@@ -1,3 +1,20 @@
+- title: "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions"
+  time: 1710
+  image: few-shot-2018.png
+  description: Why?
+  authors: 
+    - name: Scott Reed
+    - name: Yutian Chen
+    - name: "**Tom Le Paine**"
+    - name: Aäron van den Oord
+    - name: S. M. Ali Eslami
+    - name: Danilo Rezende
+    - name: Oriol Vinyals
+    - name: Nando de Freitas
+  venue: ICLR 2018
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1710.10304
 - title: "Fast Generation for Convolutional Autoregressive Models"
   time: 1704
   image: fast-generation-2017.png
