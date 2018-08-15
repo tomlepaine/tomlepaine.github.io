@@ -1,3 +1,17 @@
+- title: "How Deep Neural Networks Can Improve Emotion Recognition on Video Data"
+  time: 1607
+  image: how-deep-2016.png
+  description: Why?
+  authors: 
+    - name: Pooya Khorrami
+    - name: "**Tom Le Paine**"
+    - name:Kevin Brady
+    - name:Charlie Dagli
+    - name: Thomas S. Huang
+  venue: ICIP 2016
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1602.07377
 - title: "Seq-nms for video object detection"
   time: 1602
   image: seq-nms-2016.png
