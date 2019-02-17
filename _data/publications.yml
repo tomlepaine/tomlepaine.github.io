@@ -1,3 +1,23 @@
+- title: "One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL"
+  time: 1810
+  image: 
+  description: Why?
+  authors: 
+    - name: "**Tom Le Paine**"
+    - name: Sergio Gomez Colmenarejo
+    - name: Ziyu Wang
+    - name: Scott Reed
+    - name: Yusuf Aytar
+    - name: Tobias Pfaff
+    - name: Matt W. Hoffman
+    - name: Gabriel Barth-Maron
+    - name: Serkan Cabi
+    - name: David Budden
+    - name: Nando de Freitas
+  venue: NeurIPS 2018 Deep Reinforcement Learning Workshop (Oral)
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1810.05017
 - title: "Large-Scale Visual Speech Recognition"
   time: 1807
   image: large-scale-2018.png
@@ -33,7 +53,7 @@
     - name: "**Tom Le Paine**"
     - name: Ziyu Wang
     - name: Nando de Freitas
-  venue: Pre-print
+  venue: NeurIPS 2018
   links: 
     - name: PDF
       url: https://arxiv.org/abs/1805.11592
