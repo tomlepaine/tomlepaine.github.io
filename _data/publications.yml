@@ -1,3 +1,17 @@
+- title: "AlphaStar: Mastering the Real-Time Strategy Game StarCraft II"
+  time: 1901
+  image: https://storage.googleapis.com/deepmind-live-cms/documents/sc2-agent-vis%2520%25281%2529.gif
+  description: Why?
+  authors: 
+    - name: The AlphaStar Team
+  venue: 
+  links: 
+    - name: blog
+      url: https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/
+    - name: match video
+      url: https://www.youtube.com/watch?v=cUTMhmVh1qs
+    - name: making of video
+      url: https://www.youtube.com/watch?v=UuhECwm31dM
 - title: "One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL"
   time: 1810
   image: 
